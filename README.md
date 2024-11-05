@@ -1,6 +1,6 @@
 # Adaptive dynamic programming-based optimal pursuit-evasion control for quadrotor unmanned aerial vehicles with obstacle avoidance
 ### Introduction
-Tackled intelligent pursuit-evasion control for a quadcopter with obstacle avoidance, designed a novel ADP-based pursuit-evasion control scheme to achieve this control objective. To verify the control performances of the algorithm, simulation and physical experiments are implemented by a drone named as [QDrone](https://www.quanser.com/products/qdrone-2/) (Quanser quadrotor unmanned aerial vehicle).
+Tackled intelligent pursuit-evasion control for a quadcopter with obstacle avoidance, designed a novel **ADP-based pursuit-evasion control scheme** to achieve this control objective. To verify the control performances of the algorithm, simulation and physical experiments are implemented by a drone named as [QDrone](https://www.quanser.com/products/qdrone-2/) (Quanser quadrotor unmanned aerial vehicle).
 
 ### Trajectory tracking experiment of a single quadrotor unmanned aerial vehicle based on ADP
 <div align=center>
